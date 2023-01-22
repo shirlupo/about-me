@@ -3,7 +3,7 @@
 ________________________
 **Best Ways to Communicate**
 ________________________
-Slack, Jira or GitHub. 
+Slack, Jira or GitHub.\n 
 You can feel free to DM, no need to say hello! just write down what you need.
 I'll respond asap so pleae leave me details/context about what is needed, and let me have time to process so I can
 answer properly. 
